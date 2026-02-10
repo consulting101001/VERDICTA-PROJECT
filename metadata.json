@@ -1,0 +1,8 @@
+{
+  "name": "Verdicta Legal Consultants",
+  "description": "A prestigious legal consulting firm offering expert advice and cinematic digital experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
